@@ -29,6 +29,6 @@ Demonstrations:
 ![](/Demonstrations/dog_contour.png)
 ![](/Demonstrations/dog_demo.gif)
 
-![](/Demonstrations/world.png)
-![](/Demonstrations/world_contour.png)
+![](/Demonstrations/world.jpg)
+![](/Demonstrations/world_contour.jpg)
 ![](/Demonstrations/world_demo.gif)
