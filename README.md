@@ -4,7 +4,7 @@ This is a school project: a marble draws an image in the sand in Unity.
 
 Instructions:
 
-1- Generate moves sequences using Python
+1- Generate moves sequences using Python:
 
 Place your image in Assets/Images/Originals/ folder. 
 
@@ -15,7 +15,7 @@ Example:
 
 This will create a contours image in the Assets/Images/Contours/ folder and a .gcode text file in the Assets/GCode folder.
 
-2- Choose the GCode file in Unity
+2- Choose the GCode file in Unity:
 
 In the Marble object inspector: scroll down to the "Marble Tracks (Script)" component and drag-and-drop the new .gcode text file in the GCodeFile field.
 
