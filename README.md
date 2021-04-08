@@ -2,7 +2,7 @@
 
 This is a school project: a marble draws an image in the sand in Unity.
 
-Instructions:
+## Instructions
 
 1- Generate moves sequences using Python:
 
@@ -15,20 +15,23 @@ Example:
 
 This will create a contours image in the Assets/Images/Contours/ folder and a .gcode text file in the Assets/GCode folder.
 
+
 2- Choose the GCode file in Unity:
 
 In the Marble object inspector: scroll down to the "Marble Tracks (Script)" component and drag-and-drop the new .gcode text file in the GCodeFile field.
 
 Example:
-![](/Demonstrations/unity-editor.png)
+
+<img src="/Demonstrations/unity-editor.png" width="574" height="343">
 
 Make sure to activate "Maximize on Play" within the Unity Game panel.
 
-Demonstrations:
-![](/Demonstrations/dog.png)
-![](/Demonstrations/dog_contour.png)
-![](/Demonstrations/dog_demo.gif)
+## Demonstrations
 
-![](/Demonstrations/world.jpg)
-![](/Demonstrations/world_contour.jpg)
-![](/Demonstrations/world_demo.gif)
+<img src="/Demonstrations/dog.png" width="306" height="234">
+<img src="/Demonstrations/dog_contour.png" width="306" height="234">
+<img src="/Demonstrations/dog_demo.gif" width="306" height="234">
+
+<img src="/Demonstrations/world.jpg" width="300" height="300">
+<img src="/Demonstrations/world_contour.jpg" width="300" height="300">
+<img src="/Demonstrations/world_demo.gif" width="300" height="234">
